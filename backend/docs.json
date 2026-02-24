@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Account Deletion",
+    "content": "To delete your account, navigate to Profile > Settings > Account and click 'Delete Account'. This action is irreversible."
+  },
+  {
+    "title": "Payment Methods",
+    "content": "We accept all major credit cards, PayPal, Apple Pay, and Google Pay. We do not accept cash on delivery."
+  },
+  {
+    "title": "Changing an Order",
+    "content": "Orders can be modified within 1 hour of placement. After this window, the order enters processing and cannot be changed."
+  },
+  {
+    "title": "International Shipping",
+    "content": "We ship to over 50 countries. International delivery takes 7-14 business days depending on customs."
+  },
+  {
+    "title": "Subscription Billing",
+    "content": "Subscriptions are billed on the 1st of every month. You can cancel anytime before the next billing cycle."
+  }
+]
