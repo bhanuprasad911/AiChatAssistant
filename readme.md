@@ -1,6 +1,4 @@
-This updated **README.md** is designed for a seamless evaluation experience. It highlights the single-command workflow and the unified architecture where your Express server hosts the React production build.
 
-### `README.md`
 
 ```markdown
 # AI-Powered Support Assistant 🤖
