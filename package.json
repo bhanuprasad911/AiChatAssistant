@@ -2,7 +2,7 @@
   "name": "ai-support-assistant-root",
   "version": "1.0.0",
   "scripts": {
-    "install-all": "npm install && cd backend && npm install && cd ../frontend && npm install",
+    "install-all": "npm run install-all && npm rebuild --directory=backend better-sqlite3 && npm run build-frontend",
     "deploy": "cd frontend && npm run build && cd ../backend && npm start"
   }
 }
